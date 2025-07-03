@@ -1,0 +1,2 @@
+train.py  --name  4class-resnet-car-cat-chair-horse  --dataroot  E:\单子\基于超分重建的deepfake检测\SRCNN-pytorch-master\NPRDeepfakeDetection\dataroot  --classes  car,cat,chair,horse  --batch_size  32  --delr_freq  10  --lr  0.0002  --niter  50
+root: E:\单子\基于超分重建的deepfake检测\SRCNN-pytorch-master\NPRDeepfakeDetection\dataroot/train//car
